@@ -1,6 +1,0 @@
-/click TotemFrameTotem1 RightButton 
-/cast ĞşÅ£µñÏñ
-
-/target ĞşÅ£µñÏñ 
-/cast [help]º¿Õò°Ë·½ 
-/targetlasttarget
